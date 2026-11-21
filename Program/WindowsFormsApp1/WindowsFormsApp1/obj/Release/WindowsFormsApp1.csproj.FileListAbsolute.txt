@@ -1,0 +1,10 @@
+H:\УП\Программы\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+H:\УП\Программы\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+H:\УП\Программы\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+H:\УП\Программы\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\УП\Программы\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+H:\УП\Программы\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+H:\УП\Программы\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\УП\Программы\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\УП\Программы\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+H:\УП\Программы\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
